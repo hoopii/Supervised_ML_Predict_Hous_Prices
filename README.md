@@ -22,6 +22,9 @@ The dataset contains 79 explanatory variables describing (almost) every aspect o
 
 
 ## Basic Steps in this Project: 
+
+![grafik](https://user-images.githubusercontent.com/100354393/205448382-c7258c89-05cf-4d90-ae76-f30fe592669d.png)
+
 1. Explore & clean the data 
 2. Data preprocessing
 3. Modelling 
