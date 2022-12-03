@@ -15,7 +15,8 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science
 This Dataset is used in the following Kaggle Competition: 
 > "House Prices - Advanced Regression Techniques. Predict sales prices and practice feature engineering, RFs, and gradient boosting"
 
-The dataset contains 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. 
+The dataset contains 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa
+The datsate contains the prices and explanatory variables for a sample of 1460 houses. 
 
 [Here you can find the dataset and also an overview of the competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
