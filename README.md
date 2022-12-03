@@ -60,3 +60,4 @@ The datsate contains the prices and explanatory variables for a sample of 1460 h
 - go through notebooks (cleaning it up, commenting out, check for errors etc.) 
 - adapt the way the dataset is loaded by putting the datase in my google drive
 - put model deployment on github 
+- work in the code from "housing_prices_model_Rene" in the folder "...\Supervised_Learning\classification task\iteration_new_models"
