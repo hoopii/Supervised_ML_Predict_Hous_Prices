@@ -7,6 +7,7 @@ The task is to create a model that predicts the price of a house based on its ch
 # Data Set 
 Data out of Kaggle competition: 
 > "House Prices - Advanced Regression Techniques. Predict sales prices and practice feature engineering, RFs, and gradient boosting"
+
 [Here you can find the dataset and also an overview of the competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
 # Skills/Methods
