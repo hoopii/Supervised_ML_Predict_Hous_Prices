@@ -34,8 +34,8 @@ The dataset contains 79 explanatory variables describing (almost) every aspect o
 3. Modelling 
 4. Model Tuning using GridSearch in combination with Cross Validation
 5. Model Evaluation      
---> [Associated Notebook for classification task: Predicting if house is expensive or not](../main/housing_prices_model_regression(1).ipynb)      
---> [Associated Notebook for regression task](../main/housing_prices_model_regression(2).ipynb)  
+--> [Associated Notebook for classification task: Predicting if house is expensive or not](../main/housing_prices_model_classification.ipynb)      
+--> [Associated Notebook for regression task](../main/housing_prices_model_regression.ipynb)  
 5. Further exploratuons: Performance after dimensionality reduction with PCA 
 --> [Associated Notebook](../main/housing_prices_regression_pca.ipynb) 
 4. Further explorations: Feature selection techniques 
