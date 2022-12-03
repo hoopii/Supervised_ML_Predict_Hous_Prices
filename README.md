@@ -14,9 +14,13 @@ Data out of Kaggle competition:
 
 
 ## Basic Steps in this Project: 
-1. 
-2. 
-3. Further exploratuons: Performance after dimensionality reduction with PCA 
+1. Explore & clean the data 
+2. Data preprocessing
+3. Modelling 
+4. Model Evaluation
+--> [Associated Notebooks for this project](../main/housing_prices_model_regression(1).ipynb)  
+--> [Associated Notebooks for this project](../main/housing_prices_model_regression(2).ipynb)  
+5. Further exploratuons: Performance after dimensionality reduction with PCA 
 --> [Associated Notebook](../main/housing_prices_regression_pca.ipynb) 
 4. Further explorations: Feature selection techniques 
 --> [Associated Notebook](../main/feature_selection_housing_prices.ipynb) 
@@ -25,3 +29,6 @@ Data out of Kaggle competition:
 
 
 ## Files in this repository
+
+### to do: 
+- merge the two files for the project under 4. in basic steps
