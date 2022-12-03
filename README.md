@@ -35,18 +35,20 @@ The datsate contains the prices and explanatory variables for a sample of 1460 h
 3. Modelling 
 4. Model Tuning using GridSearch in combination with Cross Validation
 5. Model Evaluation      
---> [Associated Notebook for classification task: Predicting if house is expensive or not](../main/housing_prices_model_classification.ipynb)      
---> [Associated Notebook for regression task](../main/housing_prices_model_regression.ipynb)  
+--> [Associated notebook for classification task: Predicting if house is expensive or not](../main/housing_prices_model_classification.ipynb)      
+--> [Associated notebook for regression task](../main/housing_prices_model_regression.ipynb)  
 5. Further exploratuons: Performance after dimensionality reduction with PCA 
---> [Associated Notebook](../main/housing_prices_regression_pca.ipynb) 
+--> [Associated notebook](../main/housing_prices_regression_pca.ipynb) 
 4. Further explorations: Feature selection techniques 
---> [Associated Notebook](../main/feature_selection_housing_prices.ipynb) 
+--> [Associated notebook](../main/feature_selection_housing_prices.ipynb) 
 5. Take part at kaggle competion
---> [Associated Noteboook](../main/kaggle_competition_feature_selection_housing_prices_model.ipynb)
+--> [Associated notebook](../main/kaggle_competition_feature_selection_housing_prices_model.ipynb)
 
 
 ## Files in this repository
 - [Description of the features](../main/data_description.txt)
+- [Notebook for classification task: Predicting if house is expensive or not](../main/housing_prices_model_classification.ipynb)      
+- [Notebook for regression task](../main/housing_prices_model_regression.ipynb)  
 
 ### to do: 
 - merge the two files for the project under 4. in basic steps
