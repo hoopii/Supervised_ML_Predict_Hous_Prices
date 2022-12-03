@@ -46,7 +46,7 @@ The datsate contains the prices and explanatory variables for a sample of 1460 h
 
 
 ## Files in this repository
-- [Description of the features](../main/data_description)
+- [Description of the features](../main/data_description.txt)
 
 ### to do: 
 - merge the two files for the project under 4. in basic steps
