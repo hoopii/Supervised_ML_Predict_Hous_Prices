@@ -24,7 +24,7 @@ The datsate contains the prices and explanatory variables for a sample of 1460 h
 - Creative feature engineering 
 - Advanced regression techniques like random forest and gradient boosting
 - Implementation with scikit-learn
-
+- 
 
 ## Basic Steps in this Project: 
 
@@ -46,6 +46,8 @@ The datsate contains the prices and explanatory variables for a sample of 1460 h
 
 
 ## Files in this repository
+- [Description of the features(../main/data_description)
 
 ### to do: 
 - merge the two files for the project under 4. in basic steps
+- adapt the way the dataset is loaded by putting the datase in my google drive
