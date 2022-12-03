@@ -8,7 +8,7 @@ create a model that predicts the price of a house based on its characteristics. 
 1. 
 2. 
 3. Explore performance of models after dimensionality reduction with PCA 
---> [Associated Notebook(../main/housing_prices_regression_pca.ipynb) 
+--> [Associated Notebook](../main/housing_prices_regression_pca.ipynb) 
 4. Explore feature selection techniques 
 --> [Associated Notebook](../main/feature_selection_housing_prices.ipynb) 
 5. Take part at kaggle competion
