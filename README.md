@@ -9,7 +9,6 @@ create a model that predicts the price of a house based on its characteristics. 
 2. 
 3. 
 4. Explore feature selection techniques 
-
---> [Associated Notebook]( 
-5. Take part at kaggle competion(../main/feature_selection_housing_prices.ipynb)
+--> [Associated Notebook](../main/feature_selection_housing_prices.ipynb) 
+5. Take part at kaggle competion
 --> [Associated Noteboook](../main/kaggle_competition_feature_selection_housing_prices_model.ipynb)
