@@ -5,6 +5,10 @@ create a model that predicts the price of a house based on its characteristics. 
 
 # Goal
 The task is to create a model that predicts the price of a house based on its characteristics
+The project will be divided into two major phases:
+1. Create a model to predict whether a house is expensive or not. 
+2. Create a model to predict the exact price of a house.
+
 
 # Data Set 
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's analternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
@@ -28,9 +32,10 @@ The dataset contains 79 explanatory variables describing (almost) every aspect o
 1. Explore & clean the data 
 2. Data preprocessing
 3. Modelling 
-4. Model Evaluation      
---> [Associated Notebooks for this project](../main/housing_prices_model_regression(1).ipynb)      
---> [Associated Notebooks for this project](../main/housing_prices_model_regression(2).ipynb)  
+4. Model Tuning using GridSearch in combination with Cross Validation
+5. Model Evaluation      
+--> [Associated Notebook for classification task: Predicting if house is expensive or not](../main/housing_prices_model_regression(1).ipynb)      
+--> [Associated Notebook for regression task](../main/housing_prices_model_regression(2).ipynb)  
 5. Further exploratuons: Performance after dimensionality reduction with PCA 
 --> [Associated Notebook](../main/housing_prices_regression_pca.ipynb) 
 4. Further explorations: Feature selection techniques 
