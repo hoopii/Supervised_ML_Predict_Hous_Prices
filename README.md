@@ -28,8 +28,8 @@ The dataset contains 79 explanatory variables describing (almost) every aspect o
 1. Explore & clean the data 
 2. Data preprocessing
 3. Modelling 
-4. Model Evaluation
---> [Associated Notebooks for this project](../main/housing_prices_model_regression(1).ipynb)  
+4. Model Evaluation      
+--> [Associated Notebooks for this project](../main/housing_prices_model_regression(1).ipynb)      
 --> [Associated Notebooks for this project](../main/housing_prices_model_regression(2).ipynb)  
 5. Further exploratuons: Performance after dimensionality reduction with PCA 
 --> [Associated Notebook](../main/housing_prices_regression_pca.ipynb) 
