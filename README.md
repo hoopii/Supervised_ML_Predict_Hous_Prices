@@ -23,8 +23,14 @@ The datsate contains the prices and explanatory variables for a sample of 1460 h
 # Skills/Methods
 - Creative feature engineering 
 - Advanced regression techniques like random forest and gradient boosting
+- Apply One-Hot-Encoding for preprocessing
+- Use scikit-learn Pipelines 
+- Use GridSearch in combination with cross validation for model tuning
 - Implementation with scikit-learn
-- 
+- Deploy classification performance metrics for classification task
+- explore feature selection techniques and dimensionality reduction with PCA
+- first deployment wit streamlit  
+
 
 ## Basic Steps in this Project: 
 
@@ -43,7 +49,7 @@ The datsate contains the prices and explanatory variables for a sample of 1460 h
 --> [Associated notebook](../main/feature_selection_housing_prices.ipynb) 
 5. Take part at kaggle competion
 --> [Associated notebook](../main/kaggle_competition_feature_selection_housing_prices_model.ipynb)
-
+6. Deploy the model using streamlit 
 
 ## Files in this repository
 - [Description of the features](../main/data_description.txt)
@@ -51,5 +57,6 @@ The datsate contains the prices and explanatory variables for a sample of 1460 h
 - [Notebook for regression task](../main/housing_prices_model_regression.ipynb)  
 
 ### to do: 
-- merge the two files for the project under 4. in basic steps
+- go through notebooks (cleaning it up, commenting out, check for errors etc.) 
 - adapt the way the dataset is loaded by putting the datase in my google drive
+- put model deployment on github 
