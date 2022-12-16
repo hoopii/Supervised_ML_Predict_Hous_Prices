@@ -1,5 +1,5 @@
 # Supervised Machine Learning: Predict Housing Prices
-Create a model that predicts the price of a house based on its characteristics. Create a model to predict whether a house is expensive or not. Create a model to predict the exact price of a house.
+### Create a model that predicts the price of a house based on its characteristics. Create a model to predict whether a house is expensive or not. Create a model to predict the exact price of a house.
 
 ![grafik](https://user-images.githubusercontent.com/100354393/205448241-bb12af70-f0fc-4466-935c-fa4f7714934f.png)
 
