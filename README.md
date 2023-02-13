@@ -11,7 +11,7 @@ The project will be divided into two major phases:
 
 
 # Data Set 
-The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's analternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
+The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
 This Dataset is used in the following Kaggle Competition: 
 > "House Prices - Advanced Regression Techniques. Predict sales prices and practice feature engineering, RFs, and gradient boosting"
 
