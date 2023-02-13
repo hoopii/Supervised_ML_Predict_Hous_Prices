@@ -6,8 +6,8 @@
 # Goal
 The task is to create a model that predicts the price of a house based on its characteristics
 The project will be divided into two major phases:
-1. Create a model to predict whether a house is expensive or not. 
-2. Create a model to predict the exact price of a house.
+1. Create a model to predict whether a house is expensive or not --> Classification Task 
+2. Create a model to predict the exact price of a house --> Regression Task
 
 
 # Data Set 
